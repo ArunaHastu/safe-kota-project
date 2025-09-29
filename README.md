@@ -1,0 +1,3 @@
+Anggota kelompok Anggota kelompok Alessandro Kevin Aprilio - 2702230493 Aruna Hastu Rasendriya - 2702321270 Favian Junnanda Zahri - 2702315753
+
+SafeKota adalah platform web interaktif yang memberdayakan warga untuk berpartisipasi aktif dalam mewujudkan lingkungan perkotaan yang lebih aman dan berkelanjutan. Aplikasi ini menyederhanakan pelaporan masalah real-time (seperti isu lingkungan atau fasilitas umum yang rusak) dan menyajikannya melalui peta interaktif yang informatif. SafeKota tidak hanya menjadi sarana komunikasi, tetapi juga sumber daya edukasi mengenai Tujuan Pembangunan Berkelanjutan (SDG), menjadikannya alat penting untuk pemantauan kota kolaboratif oleh masyarakat dan pihak berwenang.
